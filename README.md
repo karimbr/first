@@ -1,5 +1,3 @@
-# first
-print('hello this is my first repo')
 # This program reads a sequence of numbers
 # and counts how many numbers are even and how many are odd.
 # The program terminates when zero is entered.
